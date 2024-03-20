@@ -1,0 +1,13 @@
+body{
+    background-color: oldlace;
+    margin: 25px; 
+}
+
+head-div{
+    width: 200px;
+    height: 200px;
+background-color: aliceblue;
+margin: 20px auto;
+padding: 50px;
+border-width: 5px;
+}
